@@ -26,6 +26,11 @@ Things are looking good if the console prints something like:
 ### Run in BeepBoop
 If you have linked your local repo with the Beep Boop service (check [here](https://beepboophq.com/0_o/my-projects)), changes pushed to the remote master branch will automatically deploy.
 
+## What does this bot do?
+Within a direct message channel (you and the bot), or via a group channel that the bot has joined, type:
+
+	bot help
+
 ## Acknowledgements
 
 This code is influenced by and utilizes the awesome https://github.com/dblock/slack-ruby-client project by [@dblock](https://github.com/dblock).
